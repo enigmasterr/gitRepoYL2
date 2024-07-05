@@ -1,0 +1,8 @@
+Разница ветки master и ветки demo в этом, что там содержаться разные коммиты и 
+есть файл fix readme.
+В демо есть merge 'buttons' в 'demo', merge 'boots' в 'release'
+Есть в master, но нет 'demo':
+merge 'boots_buttons' в 'master'
+merge 'origin/hat'
+merge 'boots_buttons'
+merge 'boots' в 'boots_buttons'
